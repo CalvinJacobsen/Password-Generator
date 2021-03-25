@@ -37,7 +37,7 @@ Each of these criteria are met...
 
 ## Screenshot of working website
 
-![Before password generation](./Assets/websiteImages/beforePasswordGeneration.PNG)
+
 
 ![After password generation](./Assets/websiteImages/afterPasswordGeneration.PNG)
 
